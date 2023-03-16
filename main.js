@@ -3,7 +3,7 @@ const createWoodBlock = () => {
     return {
         type: "wood block",
         length: "10",
-        material: "Pine",
+        material: "Cedar",
         purpose: "flute"
     }
 
